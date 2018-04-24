@@ -1,5 +1,9 @@
 # PCA--Application
+
 Suppose k PCs are selected in your PCA for the SP  data. It means ith stock will have coordinates pi1, pi2 · · · pik in the subspace spanned by PCs. 
+
+
+
 – 1. find the top 20 stocks with largest PC1 values 
 – 2. find the top 20 stocks with largest PC2 values
 – 3. Find the top 20 stocks with largest PCk values 
